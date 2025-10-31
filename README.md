@@ -1,6 +1,6 @@
 
 
-# Sofle键位图
+# Sofle
 
 <img src="keymap-drawer/sofle.svg" >
 
